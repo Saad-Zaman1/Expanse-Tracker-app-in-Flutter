@@ -25,6 +25,9 @@ This is the little advace project where I improved styling skills, Here are the 
  - save the input of user and diplay them
  - using the date picker functionality
  - using spacer() widget to make all the remaining space between widgets
- -  
- - 
+ - using input controllers to save the input
+ - Undo to deleted expense with the correct index of an entry
+ - editing the whole app theme in one main.dart widget ( theme: ThemeData().copyWith(useMaterial3: true)  This will update only custom selected stylingg and use the default for the rest.
+ - ElevatedButton.styleFrom() => this styleFrom also have the same behavior as copywith(In case of button theme styling)
+ - Added darkmode designing into the app
  - 
