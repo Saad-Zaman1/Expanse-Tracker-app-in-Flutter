@@ -19,4 +19,12 @@ samples, guidance on mobile development, and a full API reference.
 This is the little advace project where I improved styling skills, Here are the following things that can be learnt in this project
  - third party packages(uuid package to generate new ids)
  - use enum to create custom type for catagories i.e enum Category { food, work }
- - use the listview.builder to display list more efficiently(its alternate of recyclerview in android dev) 
+ - use the listview.builder to display list more efficiently(its alternate of recyclerview in android dev)
+ - use appBar widget to make customized tool bar according to our need( this widget are in Scaffold widget )
+ - context holds the metadata info about the widgets more vitaly the position of the following widget on the screen or UI so to say.
+ - save the input of user and diplay them
+ - using the date picker functionality
+ - using spacer() widget to make all the remaining space between widgets
+ -  
+ - 
+ - 
