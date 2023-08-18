@@ -31,6 +31,7 @@ This is the little advace project where I improved styling skills, Here are the 
  - ElevatedButton.styleFrom() => this styleFrom also have the same behavior as copywith(In case of button theme styling)
  - Added darkmode designing into the app
  - Slide to delete the entry and also can undo the deletion(in case of mistake)
+ - Use media query to adjest device UI in landscape mode
 
    ![image](https://github.com/Saad-Zaman1/Expanse-Tracker-app-in-Flutter/assets/88928048/85f7bb5d-5c7f-4360-b5e6-99c1eb2c17ca)
 
