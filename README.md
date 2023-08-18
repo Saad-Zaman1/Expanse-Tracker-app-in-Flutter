@@ -30,4 +30,17 @@ This is the little advace project where I improved styling skills, Here are the 
  - editing the whole app theme in one main.dart widget ( theme: ThemeData().copyWith(useMaterial3: true)  This will update only custom selected stylingg and use the default for the rest.
  - ElevatedButton.styleFrom() => this styleFrom also have the same behavior as copywith(In case of button theme styling)
  - Added darkmode designing into the app
- - 
+ - Slide to delete the entry and also can undo the deletion(in case of mistake)
+
+   ![image](https://github.com/Saad-Zaman1/Expanse-Tracker-app-in-Flutter/assets/88928048/85f7bb5d-5c7f-4360-b5e6-99c1eb2c17ca)
+
+   ![image](https://github.com/Saad-Zaman1/Expanse-Tracker-app-in-Flutter/assets/88928048/d3048f4d-1966-446a-83bc-251f46ce5f2f)
+
+ - Dark Mode
+
+ - ![image](https://github.com/Saad-Zaman1/Expanse-Tracker-app-in-Flutter/assets/88928048/17da395e-9703-4971-a175-4cdae80c0fd9)
+
+ - ![image](https://github.com/Saad-Zaman1/Expanse-Tracker-app-in-Flutter/assets/88928048/f20ecd99-6b77-453c-96ec-ddbb75720387)
+
+
+
