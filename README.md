@@ -33,15 +33,21 @@ This is the little advace project where I improved styling skills, Here are the 
  - Slide to delete the entry and also can undo the deletion(in case of mistake)
  - Use media query to adjest device UI in landscape mode
 
-   ![image](https://github.com/Saad-Zaman1/Expanse-Tracker-app-in-Flutter/assets/88928048/85f7bb5d-5c7f-4360-b5e6-99c1eb2c17ca)
+  <p align="center">
+  <img src="https://github.com/Saad-Zaman1/Expanse-Tracker-app-in-Flutter/assets/88928048/85f7bb5d-5c7f-4360-b5e6-99c1eb2c17ca" alt="Image 1" width="200" />
+     <img src="https://github.com/Saad-Zaman1/Expanse-Tracker-app-in-Flutter/assets/88928048/d3048f4d-1966-446a-83bc-251f46ce5f2f" alt="Image 2" width="200" />
 
-   ![image](https://github.com/Saad-Zaman1/Expanse-Tracker-app-in-Flutter/assets/88928048/d3048f4d-1966-446a-83bc-251f46ce5f2f)
+</p>
 
- - Dark Mode
+**Dark Mode**
 
- - ![image](https://github.com/Saad-Zaman1/Expanse-Tracker-app-in-Flutter/assets/88928048/17da395e-9703-4971-a175-4cdae80c0fd9)
+<p align="center">
+  <img src="https://github.com/Saad-Zaman1/Expanse-Tracker-app-in-Flutter/assets/88928048/17da395e-9703-4971-a175-4cdae80c0fd9" alt="Image 3" width="200" />
+   <img src="https://github.com/Saad-Zaman1/Expanse-Tracker-app-in-Flutter/assets/88928048/f20ecd99-6b77-453c-96ec-ddbb75720387" alt="Image 4" width="200" />
 
- - ![image](https://github.com/Saad-Zaman1/Expanse-Tracker-app-in-Flutter/assets/88928048/f20ecd99-6b77-453c-96ec-ddbb75720387)
+</p>
+
+
 
 
 
